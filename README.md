@@ -1,2 +1,2 @@
 # mispris-coursework
-Here are my coursework for a course called "mispris".
+There is my coursework for a course called "mispris".
